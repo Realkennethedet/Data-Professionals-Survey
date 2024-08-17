@@ -16,4 +16,4 @@ Based on the survey findings, several recommendation can be made;
 2.	To attract and retain top talents, organizations should offer competitive compensations packages and provide opportunities for career growth and development. Additionally, supporting students and entry level professionals with internships, scholarships and mentorship programs can help bridge the salary gap and encourage their career advancement.
 3.	Employers should prioritize employee well-being, promote flexible work arrangements and foster a healthy work environment to enhance overall satisfaction and productivity.
 #
-<img width="611" alt="PowerBI" src="https://github.com/user-attachments/assets/2761add0-ec0e-44f3-a084-3b89f038ffdc">
+<img width="1000" alt="PowerBI" src="https://github.com/user-attachments/assets/2761add0-ec0e-44f3-a084-3b89f038ffdc">
