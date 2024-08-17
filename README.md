@@ -10,9 +10,10 @@ Key Findings;
 4.	Python is the most popular programming language among data professionals.
 #
 Recommendations:
+
 Based on the survey findings, several recommendation can be made;
 1.	Organizations should invest in training and resources for Python to meet the demand of data analysts, engineers, scientists and other professionals. Additionally, promoting the benefits and application of other popular programming languages like R and C++ can help professionals broaden their skill sets.
 2.	To attract and retain top talents, organizations should offer competitive compensations packages and provide opportunities for career growth and development. Additionally, supporting students and entry level professionals with internships, scholarships and mentorship programs can help bridge the salary gap and encourage their career advancement.
 3.	Employers should prioritize employee well-being, promote flexible work arrangements and foster a healthy work environment to enhance overall satisfaction and productivity.
 #
-<img width="1500" alt="PowerBI_Dashboard" src="https://github.com/user-attachments/assets/5c1ff795-1356-41f6-bb51-4ae2c4d401b6">
+<img width="611" alt="PowerBI" src="https://github.com/user-attachments/assets/2761add0-ec0e-44f3-a084-3b89f038ffdc">
